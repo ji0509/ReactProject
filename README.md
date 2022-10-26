@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=react%project\njiyoung&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=react%project</br>jiyoung&fontSize=40)
 #
 ## 
 ### 
