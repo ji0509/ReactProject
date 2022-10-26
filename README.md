@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=React%20Project&fontSize=50)
 
-# <div align="center">💻Tech Stack👍💻</div>
+# <div align="center">💻Tech Stack💻</div>
 
 #####  <div align="center">📌Platforms & Languages</div>
 <div align="center" dir="auto">
