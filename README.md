@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&amp;logo=React&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&amp;logo=CSS3&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-F7DF1E?style=flat&amp;logo=Redux&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&amp;logo=Oracle&amp;logoColor=white"/>
 </div>
 
 #####  <div align="center">📌Tools</div>
